@@ -1,0 +1,6 @@
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR b KQkq - 0 2
+d7d5   -1.0
+g8f7   +0.44
+c7c6   -0.68
+a7b6   +0.68
+e8e7   +0.84
